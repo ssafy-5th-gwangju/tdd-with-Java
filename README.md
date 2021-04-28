@@ -3,6 +3,13 @@
 
 ## LICENSE
 This is released under the MIT license. See [LICENSE](https://github.com/SSAFY5thGwangJu4C/TDD-with-Java/blob/main/LICENSE) for details.
+
+## 미션
+   
+* [자동차 경주 게임]()
+* [로또 게임]()
+* [사다리 게임]()
+* [볼링 게임]()
    
 ## 기간     
 2020/05/10 ~ 2020/05/31, 3주간        
