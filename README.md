@@ -5,12 +5,18 @@
 This is released under the MIT license. See [LICENSE](https://github.com/SSAFY5thGwangJu4C/TDD-with-Java/blob/main/LICENSE) for details.
 
 ## 미션
-   
+  
+**미션**
 * [자동차 경주 게임]()
 * [로또 게임]()
 * [사다리 게임]()
 * [볼링 게임]()
-   
+  
+**기타 팁** 
+* [코드 리뷰 방법]()  
+* [자바 코드 컨벤션]()
+* [JUnit 사용법]()
+
 ## 기간     
 2020/05/10 ~ 2020/05/31, 3주간        
                  
