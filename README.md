@@ -14,7 +14,7 @@ This is released under the MIT license. See [LICENSE](https://github.com/SSAFY5t
   
 **기타 팁** 
 * [코드 리뷰 방법]()    
-* [git 코드 컨벤션]()    
+* [git 코드 컨벤션](https://github.com/SSAFY5thGwangJu4C/TDD-with-Java/blob/main/GIT_CONVENTION.md)    
 * [자바 코드 컨벤션](https://github.com/kwj1270/TIL_JAVA/blob/master/00%20JAVA%20%EC%BD%94%EB%93%9C%20%EC%BB%A8%EB%B2%A4%EC%85%98.md)  
 * [JUnit 사용법](https://github.com/springframework-sprout/THE_JAVA_TEST/tree/main/JUnit)  
 
