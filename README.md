@@ -4,10 +4,13 @@
 ## LICENSE
 This is released under the MIT license. See [LICENSE](https://github.com/SSAFY5thGwangJu4C/TDD-with-Java/blob/main/LICENSE) for details.
 
-## 미션
-  
-**미션**
+## 📖 미션  
 * [자동차 경주 게임]()
+  * [1. 학습 테스트]()  
+  * [2. 문자열 계산기]()  
+  * [3. 자동차 미션 1단계]()   
+  * [4. 자동차 미션 2단계(우승자)]()  
+  * [5. 자동차 미션 3단계(리팩터링]() 
 * [로또 게임]()
 * [사다리 게임]()
 * [볼링 게임]()
@@ -53,15 +56,7 @@ This is released under the MIT license. See [LICENSE](https://github.com/SSAFY5t
 ## 마지막으로..       
 이번 스터디는 **주입식 공부**를 지양한다.            
 코드 리뷰를 통한 피드백을 하지만, 무엇이 문제인지 알려주지 않는다.          
-이번 과정을 통해 스스로 문제를 해결하는 법에 대해서 배워갔으면 좋겠다.   
-
-## 📖 미션
-  
-[1. 학습 테스트]()  
-[2. 문자열 계산기]()  
-[3. 자동차 미션 1단계]()   
-[4. 자동차 미션 2단계(우승자)]()  
-[5. 자동차 미션 3단계(리팩터링]()   
+이번 과정을 통해 스스로 문제를 해결하는 법에 대해서 배워갔으면 좋겠다.     
    
 ## 😉Contributors
 
