@@ -6,7 +6,7 @@ This is released under the MIT license. See [LICENSE](https://github.com/SSAFY5t
 
 ## 📖 미션  
 * [자동차 경주 게임]()
-  * [1. 학습 테스트]()  
+  * [1. 학습 테스트](https://github.com/SSAFY5thGwangJu4C/TDD-with-Java/blob/main/mission/racingcar/01%20step.md)  
   * [2. 문자열 계산기]()  
   * [3. 자동차 미션 1단계]()   
   * [4. 자동차 미션 2단계(우승자)]()  
