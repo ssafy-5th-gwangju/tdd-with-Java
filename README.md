@@ -17,7 +17,7 @@ This is released under the MIT license. See [LICENSE](https://github.com/SSAFY5t
 * [git 커밋 컨벤션](https://github.com/SSAFY5thGwangJu4C/TDD-with-Java/blob/main/reference/gitCommitConvention.md)
 * [자바 코드 컨벤션](https://github.com/SSAFY5thGwangJu4C/TDD-with-Java/blob/main/reference/javaCodeConvention.md)  
 * [자바 문법](https://github.com/SSAFY5thGwangJu4C/TDD-with-Java/tree/main/reference/java)    
-* [JUnit 사용법](https://github.com/SSAFY5thGwangJu4C/TDD-with-Java/blob/main/reference/junit)  
+* [JUnit 사용법](https://github.com/SSAFY5thGwangJu4C/TDD-with-Java/blob/main/reference/JUnit)  
    
 ## 기간     
 2020/05/10 ~ 2020/05/31, 3주간        
