@@ -20,7 +20,8 @@ This is released under the MIT license. See [LICENSE](https://github.com/SSAFY5t
 * [JUnit 사용법](https://github.com/SSAFY5thGwangJu4C/TDD-with-Java/blob/main/reference/JUnit)  
 * [클린 코드](https://github.com/SSAFY5thGwangJu4C/TDD-with-Java/tree/main/reference/cleancode)    
 * [협력하는 객체들의 공동체](https://github.com/SSAFY5thGwangJu4C/TDD-with-Java/blob/main/reference/objectOrientedProgramming.md)    
-         
+* [IntelliJ에 git bash 연결하기](https://toma0912.tistory.com/92)   
+* [Intellij 한글 에러 -> 아직 정리 x]         
 ## 기간     
 2020/05/10 ~ 2020/05/24, 3주간        
                  
