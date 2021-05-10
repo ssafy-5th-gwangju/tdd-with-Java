@@ -10,7 +10,7 @@ This is released under the MIT license. See [LICENSE](https://github.com/SSAFY5t
     * [2. 문자열 계산기](https://github.com/SSAFY5thGwangJu4C/TDD-with-Java/blob/main/mission/racingcar/02%20step.md)    
     * [3. 자동차 미션 1단계](https://github.com/SSAFY5thGwangJu4C/TDD-with-Java/blob/main/mission/racingcar/03%20step.md)   
     * [4. 자동차 미션 2단계(우승자)](https://github.com/SSAFY5thGwangJu4C/TDD-with-Java/blob/main/mission/racingcar/04%20step.md)  
-    * [5. 자동차 미션 3단계(리팩터링)]() 
+    * [5. 자동차 미션 3단계(리팩터링)](https://github.com/SSAFY5thGwangJu4C/TDD-with-Java/blob/main/mission/racingcar/05%20step.md) 
   
 **기타 팁** 
 * [코드 리뷰 방법](https://github.com/next-step/nextstep-docs/tree/master/codereview)    
