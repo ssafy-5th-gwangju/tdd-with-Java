@@ -29,7 +29,7 @@
 
 ## JUnit, AssertJ 구현 힌트
 ### Exception 구현 힌트
-[AssertJ Exception Assertions 문서]() 참고   
+[AssertJ Exception Assertions](https://www.baeldung.com/assertj-exception-assertion) 문서 참고   
   
 ```java
 import static org.assertj.core.api.Assertions.assertThatExceptionOfType;
@@ -54,7 +54,7 @@ assertThatIllegalArgumentException().isThrownBy(() -> {
 });
 ```
 **테스트 데이터 전달**  
-[Guide to JUnit 5 Parameterized Tests]()      
+[Guide to JUnit 5 Parameterized Tests](https://www.baeldung.com/parameterized-tests-junit-5)      
    
 * @ParameterizedTest   
 * @ValueSource(strings = {"", "  "})
