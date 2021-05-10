@@ -22,7 +22,7 @@ This is released under the MIT license. See [LICENSE](https://github.com/SSAFY5t
 * [협력하는 객체들의 공동체](https://github.com/SSAFY5thGwangJu4C/TDD-with-Java/blob/main/reference/objectOrientedProgramming.md)    
          
 ## 기간     
-2020/05/10 ~ 2020/05/31, 3주간        
+2020/05/10 ~ 2020/05/24, 3주간        
                  
 ## 🗣 피드백은 언제나 긍정적으로 받아들이자       
 **사람 마다 가지고 있는 지식과 관점은 다를 수 밖에 없다.**       
