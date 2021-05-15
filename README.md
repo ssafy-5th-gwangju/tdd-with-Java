@@ -16,6 +16,7 @@ This is released under the MIT license. See [LICENSE](https://github.com/SSAFY5t
 **기타 팁** 
 * [코드 리뷰 방법](https://github.com/next-step/nextstep-docs/tree/master/codereview)    
 * [git 커밋 컨벤션](https://github.com/SSAFY5thGwangJu4C/TDD-with-Java/blob/main/reference/gitCommitConvention.md)
+* [객체지향 생활 체조 원칙](https://github.com/SSAFY5thGwangJu4C/TDD-with-Java/blob/main/reference/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%83%9D%ED%99%9C%EC%B2%B4%EC%A1%B0%EC%9B%90%EC%B9%99.md)   
 * [자바 코드 컨벤션](https://github.com/SSAFY5thGwangJu4C/TDD-with-Java/blob/main/reference/javaCodeConvention.md)  
 * [자바 문법](https://github.com/SSAFY5thGwangJu4C/TDD-with-Java/tree/main/reference/java)    
 * [JUnit 사용법](https://github.com/SSAFY5thGwangJu4C/TDD-with-Java/blob/main/reference/JUnit)  
