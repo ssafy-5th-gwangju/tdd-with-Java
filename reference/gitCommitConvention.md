@@ -14,7 +14,12 @@
 ```git
 git commit -m "feat:OOO 클래스 계산 기능 구현"   
 ```     
-  
+
+**팀 단위로 작업할 경우**
+```git
+git commit -m "feat(아이디):OOO 클래스 계산 기능 구현"   
+```     
+
 **커밋은 기능 단위당 하나씩 만들자**     
 * `test:OOO 기능 테스트` 
 * `feat:OOO 기능 구현`  
